@@ -1,34 +1,39 @@
 # Hi, I'm Yixuan Wang 👋
 
-🎓 Master student at Monash University  
-📊 Interested in Data Analysis & Machine Learning  
+🎓 Master of Data Analytics for Business, Monash University  
+🎓 Bachelor of Mathematics, King’s College London (KCL)  
+📊 Interested in Data Analysis, Machine Learning & Financial Modelling  
 📍 Based in Melbourne  
 
+---
+
 ## Skills
-- R / Python
-- Regression / Time Series (GARCH)
-- Data Visualization
-- SQL
+- R / Python  
+- SQL  
+- Regression Analysis / Time Series (GARCH)  
+- Data Visualization  
+- Statistical Modelling  
+
+---
 
 ## Projects
-- 📈 GARCH Volatility Modelling
-- 📊 Housing Price Analysis
-- 📉 ETF Risk Analysis
+
+- 📈 **GARCH Volatility Modelling**  
+  Built and compared GARCH-family models (sGARCH, eGARCH, GJR-GARCH) to analyze time-varying volatility in financial returns  
+
+- 📊 **Birthweight Regression Analysis**  
+  Applied OLS regression and hypothesis testing to analyze the impact of maternal factors on infant birthweight  
+
+- 📉 **PCA & High-Dimensional Asset Analysis**  
+  Used PCA, MDS, and Sammon mapping to uncover latent factors and co-movement structure in financial data  
+
+- 🗄 **SQL Sales Data Analysis**  
+  Performed data analysis using SQL (INNER JOIN, GROUP BY, HAVING, window functions) to extract business insights  
+
+---
+
 
 ## Contact
 - Email: wangyixuanjohanna@gmail.com
 - LinkedIn: www.linkedin.com/in/johanna-wang-535985378
-<!--
-**YixuanWang1229/YixuanWang1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
